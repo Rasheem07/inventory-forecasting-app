@@ -1,0 +1,297 @@
+{
+  "name_source": "Illustrative demo names; the source dataset contains IDs only.",
+  "stores": [
+    {
+      "id": 1,
+      "name": "Kochi · Edappally"
+    },
+    {
+      "id": 2,
+      "name": "Kochi · Kakkanad"
+    },
+    {
+      "id": 3,
+      "name": "Kozhikode · Mavoor Road"
+    },
+    {
+      "id": 4,
+      "name": "Thrissur · City Centre"
+    },
+    {
+      "id": 5,
+      "name": "Thiruvananthapuram · Pattom"
+    },
+    {
+      "id": 6,
+      "name": "Kannur · Town Centre"
+    },
+    {
+      "id": 7,
+      "name": "Kottayam · Baker Junction"
+    },
+    {
+      "id": 8,
+      "name": "Malappuram · Perinthalmanna"
+    },
+    {
+      "id": 9,
+      "name": "Palakkad · Stadium Road"
+    },
+    {
+      "id": 10,
+      "name": "Kollam · Chinnakada"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Basmati rice · 1 kg",
+      "category": "Grains & staples"
+    },
+    {
+      "id": 2,
+      "name": "Sona masoori rice · 1 kg",
+      "category": "Grains & staples"
+    },
+    {
+      "id": 3,
+      "name": "Whole wheat atta · 1 kg",
+      "category": "Grains & staples"
+    },
+    {
+      "id": 4,
+      "name": "Maida flour · 1 kg",
+      "category": "Grains & staples"
+    },
+    {
+      "id": 5,
+      "name": "Rava · 500 g",
+      "category": "Grains & staples"
+    },
+    {
+      "id": 6,
+      "name": "Toor dal · 500 g",
+      "category": "Pulses"
+    },
+    {
+      "id": 7,
+      "name": "Moong dal · 500 g",
+      "category": "Pulses"
+    },
+    {
+      "id": 8,
+      "name": "Chana dal · 500 g",
+      "category": "Pulses"
+    },
+    {
+      "id": 9,
+      "name": "Kabuli chickpeas · 500 g",
+      "category": "Pulses"
+    },
+    {
+      "id": 10,
+      "name": "Urad dal · 500 g",
+      "category": "Pulses"
+    },
+    {
+      "id": 11,
+      "name": "Sunflower oil · 1 L",
+      "category": "Cooking essentials"
+    },
+    {
+      "id": 12,
+      "name": "Coconut oil · 500 mL",
+      "category": "Cooking essentials"
+    },
+    {
+      "id": 13,
+      "name": "Ghee · 200 mL",
+      "category": "Cooking essentials"
+    },
+    {
+      "id": 14,
+      "name": "Sugar · 1 kg",
+      "category": "Cooking essentials"
+    },
+    {
+      "id": 15,
+      "name": "Iodized salt · 1 kg",
+      "category": "Cooking essentials"
+    },
+    {
+      "id": 16,
+      "name": "Turmeric powder · 100 g",
+      "category": "Spices"
+    },
+    {
+      "id": 17,
+      "name": "Chilli powder · 100 g",
+      "category": "Spices"
+    },
+    {
+      "id": 18,
+      "name": "Coriander powder · 100 g",
+      "category": "Spices"
+    },
+    {
+      "id": 19,
+      "name": "Garam masala · 100 g",
+      "category": "Spices"
+    },
+    {
+      "id": 20,
+      "name": "Black pepper · 50 g",
+      "category": "Spices"
+    },
+    {
+      "id": 21,
+      "name": "Full cream milk · 1 L",
+      "category": "Dairy"
+    },
+    {
+      "id": 22,
+      "name": "Curd · 500 g",
+      "category": "Dairy"
+    },
+    {
+      "id": 23,
+      "name": "Butter · 100 g",
+      "category": "Dairy"
+    },
+    {
+      "id": 24,
+      "name": "Paneer · 200 g",
+      "category": "Dairy"
+    },
+    {
+      "id": 25,
+      "name": "Cheese slices · 200 g",
+      "category": "Dairy"
+    },
+    {
+      "id": 26,
+      "name": "Whole wheat bread · 400 g",
+      "category": "Bakery & breakfast"
+    },
+    {
+      "id": 27,
+      "name": "White bread · 400 g",
+      "category": "Bakery & breakfast"
+    },
+    {
+      "id": 28,
+      "name": "Rolled oats · 500 g",
+      "category": "Bakery & breakfast"
+    },
+    {
+      "id": 29,
+      "name": "Cornflakes · 250 g",
+      "category": "Bakery & breakfast"
+    },
+    {
+      "id": 30,
+      "name": "Mixed fruit jam · 200 g",
+      "category": "Bakery & breakfast"
+    },
+    {
+      "id": 31,
+      "name": "Tea · 250 g",
+      "category": "Beverages"
+    },
+    {
+      "id": 32,
+      "name": "Instant coffee · 100 g",
+      "category": "Beverages"
+    },
+    {
+      "id": 33,
+      "name": "Orange juice · 1 L",
+      "category": "Beverages"
+    },
+    {
+      "id": 34,
+      "name": "Mango drink · 1 L",
+      "category": "Beverages"
+    },
+    {
+      "id": 35,
+      "name": "Drinking water · 1 L",
+      "category": "Beverages"
+    },
+    {
+      "id": 36,
+      "name": "Marie biscuits · 250 g",
+      "category": "Snacks"
+    },
+    {
+      "id": 37,
+      "name": "Cream biscuits · 150 g",
+      "category": "Snacks"
+    },
+    {
+      "id": 38,
+      "name": "Potato chips · 100 g",
+      "category": "Snacks"
+    },
+    {
+      "id": 39,
+      "name": "Banana chips · 200 g",
+      "category": "Snacks"
+    },
+    {
+      "id": 40,
+      "name": "Roasted peanuts · 200 g",
+      "category": "Snacks"
+    },
+    {
+      "id": 41,
+      "name": "Instant noodles · 280 g",
+      "category": "Packaged foods"
+    },
+    {
+      "id": 42,
+      "name": "Pasta · 500 g",
+      "category": "Packaged foods"
+    },
+    {
+      "id": 43,
+      "name": "Tomato ketchup · 500 g",
+      "category": "Packaged foods"
+    },
+    {
+      "id": 44,
+      "name": "Mango pickle · 300 g",
+      "category": "Packaged foods"
+    },
+    {
+      "id": 45,
+      "name": "Coconut milk · 200 mL",
+      "category": "Packaged foods"
+    },
+    {
+      "id": 46,
+      "name": "Dishwash liquid · 500 mL",
+      "category": "Household"
+    },
+    {
+      "id": 47,
+      "name": "Laundry detergent · 1 kg",
+      "category": "Household"
+    },
+    {
+      "id": 48,
+      "name": "Floor cleaner · 1 L",
+      "category": "Household"
+    },
+    {
+      "id": 49,
+      "name": "Bath soap · 125 g",
+      "category": "Personal care"
+    },
+    {
+      "id": 50,
+      "name": "Toothpaste · 150 g",
+      "category": "Personal care"
+    }
+  ]
+}
